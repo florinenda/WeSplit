@@ -9,7 +9,7 @@ Instructions Checklist:
 - [ ] how to store program state with the @State and @FocusState property wrappers
 - [ ] how to create user interface controls like TextField and Picker
 - [ ] how to create views in a loop using ForEach
-- [ ] 
+
 
  
 ## 🌟 Topics and skills covered
