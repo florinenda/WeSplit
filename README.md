@@ -1,6 +1,6 @@
 # WeSplit
 
-## 📱WeSplit : a easy way to calculate the tip amount and the contributions of each persons, The goal of our app Project is to eliminate the akward moment a the end of your dates. 
+## 📱WeSplit : a easy way to calculate the tip amount and the contributions of each others, The goal of our app Project is to eliminate the akward moment a the end of your dates. 
 
 Instructions Checklist:
 
